@@ -1,2 +1,2 @@
 # Curso GIT e GITHUB
- Primeiro repositório do curso
+ Primeiro repositório do cursoemvideo
